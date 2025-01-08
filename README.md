@@ -42,9 +42,7 @@
 
 </div>
 
-## Connect with Me
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/chad-johnson-2960ba223/)
 
 
 <!---
