@@ -2,7 +2,9 @@
 - 👋 Hi, I’m Chad
 - 👀 I’m interested in Health, Personal Finance, Sports, and Research.
 - 🌱 I’m currently earning a Masters Degree in Data Science.
-- 📫 How to reach me **Chadjohnson31901@gmail.com**
+## How to reach me:
+- **Chadjohnson31901@gmail.com**
+- [LinkedIn](https://www.linkedin.com/in/chad-johnson-2960ba223/)
 
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chadjohnson3&layout=compact&show_icons=true&theme=solarized-light)
